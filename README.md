@@ -15,7 +15,7 @@ This is a simple Todo application built with React and Vite. The app allows user
 
 ## Screenshots
 
-![Add Todo](path/to/add-todo-screenshot.png)
+![Add Todo](Screenshot 2025-01-06 092953.png)
 ![Toggle Todo](path/to/toggle-todo-screenshot.png)
 ![Delete Todo](path/to/delete-todo-screenshot.png)
 
