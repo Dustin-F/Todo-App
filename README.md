@@ -15,7 +15,7 @@ This is a simple Todo application built with React and Vite. The app allows user
 
 ## Screenshots
 
-
+![Screenshot](noToDo.png)
 ![Screenshot](images/screenshot.png)
 
 ## Installation
