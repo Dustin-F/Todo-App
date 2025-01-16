@@ -1,7 +1,7 @@
 # Todo App
 
 This is a simple Todo application built with React and Vite. The app allows users to add, toggle, and delete todo items. The state of the todos is persisted in the browser's local storage.
-
+simple 
 ## Features
 
 - **Add Todo**: Users can add new todo items using the input form.
